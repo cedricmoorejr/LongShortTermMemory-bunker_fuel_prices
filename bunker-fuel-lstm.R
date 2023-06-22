@@ -1,27 +1,3 @@
-## -------------------------------------
-##
-## Script Name: Marine Gas Oil Price Predictor Using Long Short-Term Memory
-##
-## Purpose of Script: Predict 30-Day Marine Gas Oil Prices
-##
-## Author: Cedric Moore Jr.
-##
-## Date Created: 2023-05-12
-##
-## Version: 1.0.0
-##
-## Copyright (c) Cedric Moore Jr., 2023
-## Email: Cedric.Moore@envivabiomass.com
-##
-## -------------------------------------
-##
-## Notes: Data site:
-## https://dev.socrata.com/foundry/agtransport.usda.gov/4v3x-mj86
-##   
-## -------------------------------------
-
-
-
 ##----------------------------------------------------------------
 ##                        Load libraries                        --
 ##----------------------------------------------------------------
